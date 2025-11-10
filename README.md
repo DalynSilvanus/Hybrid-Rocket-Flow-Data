@@ -1,0 +1,1 @@
+Modelled different parameters ranging from regression rates, chamber pressure, O/F ratio and Thrust for a liquid-solid hybrid rocket using N2O (nitrous oxide) as the oxidizer. The data is to be used for cold-flow and hot-fire analysis.
